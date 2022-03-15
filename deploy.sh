@@ -10,6 +10,6 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f git@github.com:artem-2237/vueCalculator.git master:gh-pages
+git push -f git@github.com:artem-2237/VueCalculator.git master:gh-pages
 
 cd -
